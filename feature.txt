@@ -1,2 +1,6 @@
 Feature update content
+<<<<<<< HEAD
 Change from main branch
+=======
+Change from feature-update branch
+>>>>>>> feature-update
