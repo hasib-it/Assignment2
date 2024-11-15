@@ -1,6 +1,6 @@
-Feature update content
 <<<<<<< HEAD
-Change from main branch
+Content from the main branch
 =======
-Change from feature-update branch
+Content from the feature-update branch
 >>>>>>> feature-update
+
